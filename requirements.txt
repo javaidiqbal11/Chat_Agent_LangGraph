@@ -1,0 +1,15 @@
+langchain 
+langgraph 
+chromadb 
+openai 
+gradio 
+python-dotenv
+tiktoken
+chromadb
+python-docx
+gradio
+python-dotenv
+numpy
+langchain_community
+langchain_openai
+langchain_chroma
