@@ -20,7 +20,7 @@ Chat_Agent_LangGraph/
 ├── prompts/
 │   └── prompts.py            # Prompt templates for agents
 │
-├── app.py                    # FastAPI backend for external access
+├── agent.py                    # FastAPI backend for external access
 ├── ui.py                     # Optional Gradio frontend interface
 ├── .env                      # Environment variables (e.g., API keys)
 ├── requirements.txt          # Project dependencies
